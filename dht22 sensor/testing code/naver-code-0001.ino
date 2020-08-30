@@ -2,6 +2,7 @@
 
 //(dht 2 * 3) + arduino
 
+//ling from : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10401&docId=333488999&qb=ZGh0MjIg7JWE65GQ7J2064W4&enc=utf8&section=kin&rank=1&search_sort=0&spq=0
 
 #include <DHT.h>
 
